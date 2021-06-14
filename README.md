@@ -1,0 +1,2 @@
+# Phone-Number-Information
+This basic script written in the Python programming language, will allow you to know some things about an international telephone number, such as its approximate latitude and longitude, its location, its service provider etc ..., it will allow you to save all the data in a file, you also need a key to use the OpenCage API but the script comes with a KEY ready, just come and use, you can extend it as you want.

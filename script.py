@@ -1,3 +1,15 @@
+# ***
+# * Copyright (C) Rodolfo Herrera Hernandez. All rights reserved.
+# * Licensed under the MIT license. See LICENSE file in the project root 
+# * for full license information.
+# *
+# * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+# *
+# * For related information - https://github.com/codewithrodi/Phone-Number-Information/
+# *
+# * =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# ****/
+
 import os
 from phonenumbers import (
     geocoder, carrier, parse
@@ -7,7 +19,7 @@ from opencage.geocoder import OpenCageGeocode
 print('''
 =============== PHONE NUMBERS DATA ===============
  * Developed by Rodolfo Herrera Hernandez
- * https://github.com/rodiihernandezz/
+ * https://github.com/codewithrodi/
 ''')
 
 print('Phone number example: +56 9 1122 3344')

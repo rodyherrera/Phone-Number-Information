@@ -1,2 +1,17 @@
-# Phone-Number-Information
-This basic script written in the Python programming language, will allow you to know some things about an international telephone number, such as its approximate latitude and longitude, its location, its service provider etc ..., it will allow you to save all the data in a file, you also need a key to use the OpenCage API but the script comes with a KEY ready, just come and use, you can extend it as you want.
+## Phone Numbers Information
+##### A simple script to extract information from a phone number.
+
+### Getting starting
+You only have to execute a series of commands in your terminal to initialize the script correctly, it is easier than you think.
+```bash
+# Cloning the repository
+git clone https://github.com/CodeWithRodi/Phone-Number-Information/
+# Entering the folder with the source code
+cd Phone-Number-Information
+# Installing the necessary modules
+pip install -r Requirements.txt
+# Starting the script
+python3 Script.py
+```
+
+### Remember drink water my love.

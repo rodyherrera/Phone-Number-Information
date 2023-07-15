@@ -30,7 +30,7 @@ def Main():
     Number = input('/> Enter a phone number including the country code: ')
 
     # https://opencagedata.com/ API KEY
-    KEY = '3c3d3f1a27614afd86b3f64addc1ceb3'
+    KEY = '6a02310ba4984cbbb5aea2ba97312806'
 
     ParsedNumber = parse(Number.replace(' ', ''))
     Country = geocoder.description_for_number(ParsedNumber, 'en')

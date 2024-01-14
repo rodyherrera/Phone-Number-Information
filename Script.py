@@ -5,7 +5,7 @@
 # *
 # * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 # *
-# * For related information - https://github.com/codewithrodi/Phone-Number-Information/
+# * For related information - https://github.com/rodyherrera/Phone-Number-Information/
 # *
 # * =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # ****/
@@ -22,8 +22,8 @@ def Main():
     print('''\
 =============== PHONE NUMBERS INFORMATION ===============
  * Developed by Rodolfo Herrera Hernandez
- * https://github.com/codewithrodi/
- * contact@codewithrodi.com - Full Stack Developer
+ * https://github.com/rodyherrera/
+ * contact@rodyherrera.com - Full Stack Developer
 ''')
 
     print(':: Phone number example: +56 9 1122 3344')

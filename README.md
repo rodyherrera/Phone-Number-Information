@@ -5,7 +5,7 @@
 You only have to execute a series of commands in your terminal to initialize the script correctly, it is easier than you think.
 ```bash
 # Cloning the repository
-git clone https://github.com/CodeWithRodi/Phone-Number-Information/
+git clone https://github.com/rodyherrera/Phone-Number-Information/
 # Entering the folder with the source code
 cd Phone-Number-Information
 # Installing the necessary modules
